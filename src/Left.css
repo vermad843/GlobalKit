@@ -1,0 +1,28 @@
+.left {
+    flex : 0.5;
+    z-index : 1;
+    margin-left : 50px;
+    position : relative;
+    bottom : 300px;
+
+}
+
+.left__heading {
+   font-weight: bold;
+   font-size: 90px;
+}
+
+.left__heading__passage {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.left__input {
+    padding : 10px;
+    padding-right : 20px;
+}
+
+.left__button {
+    padding : 10px;
+    padding-right : 20px;
+}

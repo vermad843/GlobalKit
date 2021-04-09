@@ -1,0 +1,18 @@
+.right {
+    flex : 0.5;
+    margin-right : 50px;
+    position : relative;
+    bottom : 300px;
+}
+
+.right__heading {
+    font-weight: bold;
+    font-size: 90px; 
+}
+
+
+.right__heading__passage {
+    font-weight: bold;
+    font-size: 20px;
+    margin : 60px;
+}
